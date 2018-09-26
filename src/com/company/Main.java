@@ -37,11 +37,5 @@ public class Main {
         return (int)(1 - Math.pow(2,n))/(1 - 2);
     }
 
-
-
-
 }
-
-//summ = Math.log(-x*(1-2)*+1)/Math.log(2);
-//bn = (int)Math.pow(2,dist)
 
