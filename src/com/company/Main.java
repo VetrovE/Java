@@ -26,7 +26,7 @@ public class Main {
     }
 
 
-    // геометрическая прогрессия
+    // формулы геометрической прогрессии
     static public int n(int x){
         return (int)(Math.log(1 - x*(1-2))/Math.log(2));
     }
